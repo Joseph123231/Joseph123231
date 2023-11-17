@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"> 
 
