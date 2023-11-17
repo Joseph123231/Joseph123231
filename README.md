@@ -36,10 +36,9 @@ Here are some ideas to get you started:
 
 <h2>💻 Operating Systems</h2>
 <p>
-<img src = "![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)"/>
-<img src = "![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)"/>
-<img src = " ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)"/>
-<img src = ""/>
+<img src = "![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)">
+<img src = "![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)">
+<img src = " ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)">
 </p>
 
 ## 🔧 IDE's and Browsers
