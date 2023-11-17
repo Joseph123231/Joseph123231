@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Fried / Chicken
 - ⚡ Fun fact: ... When the dun goes down Ethan is robbing the town
 
-![HTML5]https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-<img src= ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)  />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
+
+img src= ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)/>
+
